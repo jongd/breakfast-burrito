@@ -1,1 +1,3 @@
-module.exports = class {{#camelize}}{{name}}{{/camelize}}Model extends Backbone.Model
+Model = require '../lib/model'
+
+module.exports = class {{#camelize}}{{name}}{{/camelize}}Model extends Model
