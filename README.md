@@ -1,8 +1,8 @@
-# Brunch with Hipsters and Bootstrap
+# Breakfast Burrito
 
-![image](http://www.latimes.com/media/photo/2011-07/63171841.jpg)
+Breakfast Burrito is my attempt at finding the best possible Backbone workflow.
 
-Brunch with Hipsters is a rad [Brunch](http://brunch.io/) app skeleton that comes with unicorns out of the box. Take a look at [Hackerank (an example app)](https://github.com/elving/Hackerank) to see how it works. Brunch with Hipsters was awesome before awesome was awesome.
+At the moment it's just a fork of [Elving Rodriguez's](https://github.com/elving/) [brunch with hipsters](https://github.com/elving/brunch-with-hipsters) but we'll see where this leads.
 
 ## Languages
 
@@ -11,7 +11,7 @@ Brunch with Hipsters is a rad [Brunch](http://brunch.io/) app skeleton that come
 - [Handlebars](http://handlebarsjs.com/)
 
 ## Features
-
+- [Brunch](https://github.com/brunch/brunch)
 - [Swag v0.2.1](https://github.com/elving/swag)
 - [Font Awesome v3.0](https://github.com/FortAwesome/Font-Awesome)
 - [Modernizr v2.6.2](https://github.com/Modernizr/Modernizr)
@@ -22,15 +22,15 @@ Brunch with Hipsters is a rad [Brunch](http://brunch.io/) app skeleton that come
 
 ## Getting started
 
-    brunch new <appname> --skeleton git@github.com:elving/brunch-with-hipsters.git
+    brunch new <appname> --skeleton git@github.com:jongd/breakfast-burrito.git
     brunch w -s
 
 or
 
-    $ git clone git@github.com:elving/brunch-with-hipsters.git
+    $ git clone git@github.com:jongd/breakfast-burrito.git
     $ npm install
     $ brunch w -s
 
 or
 
-    $ git clone git@github.com:elving/brunch-with-hipsters.git && npm install && brunch w -s
+    $ git clone git@github.com:jongd/breakfast-burrito.git && npm install && brunch w -s
